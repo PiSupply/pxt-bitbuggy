@@ -20,5 +20,6 @@
         "tests.ts"
     ],
     "public": true,
-    "installedVersion": "github:PiSupply/pxt-bitbuggy#v2.1.0"
+    "installedVersion": "github:PiSupply/pxt-bitbuggy#v2.1.0",
+    "preferredEditor": "tsprj"
 }
