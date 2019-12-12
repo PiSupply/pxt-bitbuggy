@@ -1,6 +1,6 @@
 {
     "name": "BitBuggy",
-    "version": "2.1.1",
+    "version": "2.1.2",
     "description": "Pi Supply Bit:Buggy",
     "license": "MIT",
     "dependencies": {
