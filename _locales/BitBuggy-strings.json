@@ -1,0 +1,20 @@
+{
+  "BitBuggy.Distance_Unit.Distance_Unit_cm|block": "cm",
+  "BitBuggy.Distance_Unit.Distance_Unit_inch|block": "inch",
+  "BitBuggy.Distance_Unit.Distance_Unit_mm|block": "mm",
+  "BitBuggy.TrackingStateType.Tracking_State_0|block": "● ●",
+  "BitBuggy.TrackingStateType.Tracking_State_1|block": "● ◌",
+  "BitBuggy.TrackingStateType.Tracking_State_2|block": "◌ ●",
+  "BitBuggy.TrackingStateType.Tracking_State_3|block": "◌ ◌",
+  "BitBuggy.back|block": "reverse at full speed",
+  "BitBuggy.brake|block": "brake",
+  "BitBuggy.forward|block": "go straight at full speed",
+  "BitBuggy.freestyle|block": "set left wheel speed %m| right wheel speed %n",
+  "BitBuggy.init_wheel|block": "set left wheel at pin %left|right wheel at pin %right",
+  "BitBuggy.bitbuggy_sonarbit|block": "ultrasonic distance in unit %distance_unit",
+  "BitBuggy.tracking|block": "tracking state is %state",
+  "BitBuggy.turnleft|block": "turn left at full speed",
+  "BitBuggy.turnright|block": "turn right at full speed",
+  "BitBuggy|block": "BitBuggy",
+  "{id:category}BitBuggy": "BitBuggy"
+}

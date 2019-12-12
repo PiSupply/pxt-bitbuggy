@@ -1,0 +1,24 @@
+{
+    "name": "BitBuggy",
+    "version": "2.1.1",
+    "description": "Pi Supply Bit:Buggy",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "NeoPixel": "github:microsoft/pxt-neopixel"
+    },
+    "files": [
+        "README.md",
+        "bitbuggy.ts",
+        "_locales/zh-cn/BitBuggy-strings.json",
+        "_locales/zh-tw/BitBuggy-strings.json",
+        "_locales/ja/BitBuggy-strings.json",
+        "_locales/fr/BitBuggy-strings.json",
+        "_locales/fr/BitBuggy-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true,
+    "installedVersion": "github:PiSupply/pxt-bitbuggy#v2.1.0"
+}

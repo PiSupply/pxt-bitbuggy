@@ -1,0 +1,16 @@
+{
+  "BitBuggy": "Use this file to define custom functions and blocks.\nRead more at https://makecode.microbit.org/blocks/custom",
+  "BitBuggy.back": "TODO: full speed move back",
+  "BitBuggy.brake": "TODO: stop",
+  "BitBuggy.forward": "TODO: full speed move forward",
+  "BitBuggy.freestyle": "TODO: self setting speed",
+  "BitBuggy.freestyle|param|m": "the m from -100 (min) to 100 (max), eg:0",
+  "BitBuggy.freestyle|param|n": "the n from -100 (min) to 100 (max), eg:0",
+  "BitBuggy.init_wheel": "TODO: initialization bit:buggy car",
+  "BitBuggy.init_wheel|param|left": "describe parameter here, eg: AnalogPin.P1",
+  "BitBuggy.init_wheel|param|right": "describe parameter here, eg: AnalogPin.P2",
+  "BitBuggy.bitbuggy_sonarbit": "TODO: get ultrasonic distance",
+  "BitBuggy.tracking": "TODO: line following",
+  "BitBuggy.turnleft": "TODO: full speed turn left",
+  "BitBuggy.turnright": "TODO: full speed turn right"
+}

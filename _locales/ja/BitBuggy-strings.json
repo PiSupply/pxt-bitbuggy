@@ -1,0 +1,13 @@
+{
+    "BitBuggy|block": "BitBuggy",
+    "BitBuggy.init_wheel|block": "左の車輪を設置する %left|右の車輪を設置する %right",
+    "BitBuggy.forward|block": "急速な前進",
+    "BitBuggy.back|block": "急速な後ろ向き",
+    "BitBuggy.turnleft|block": "左へ曲がる",
+    "BitBuggy.turnright|block": "右へ曲がる",
+    "BitBuggy.brake|block": "停車",
+    "BitBuggy.freestyle|block": "左の速度を設置する %m| 右の速度を設置する %n",
+    "BitBuggy.tracking|block": "パトロールヘッドを設置%state",
+    "BitBuggy.bitbuggy_sonarbit|block": "超音波測距 %distance_unit"
+    
+}

@@ -1,0 +1,14 @@
+{
+    "BitBuggy|block": "BitBuggy",
+    "BitBuggy.init_wheel|block": "设置左轮连接 %left|右轮连接 %right",
+    "BitBuggy.forward|block": "全速前进",
+    "BitBuggy.back|block": "全速后退",
+    "BitBuggy.turnleft|block": "全速左转",
+    "BitBuggy.turnright|block": "全速右转",
+    "BitBuggy.brake|block": "刹车",
+    "BitBuggy.freestyle|block": "设置左轮速度为 %m| 右轮速度为 %n",
+    "BitBuggy.tracking|block": "巡线头状态为 %state",
+    "BitBuggy.bitbuggy_sonarbit|block": "超声波测距值 %distance_unit"
+    
+}
+
